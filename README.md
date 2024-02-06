@@ -1,7 +1,7 @@
 # Stock Market Simulator
 
 
-How to use the program?
+**How to use the program?**
 
 The program starts off by asking the user to enter their name. Then, the program displays a welcome message to the user as well as a table of 
 stock names and values. Just when the program runs, the user is prompted to enter the number of companies they want to invest in out of the 6. 
@@ -39,8 +39,7 @@ to see the order and 0 if they don't. Appropriate validations are set in place f
 accomplish such an efficient sorting. The program then ends. 
 
 
-
-Additional comments about the final program:
+**Additional comments about the final program:**
 
 I have managed to fulfill all the compulsory requirements for the project. Among the optional components, I have included graphics, recursion, 
 interactve input from the user, and input from files (for the company logos on Standard Draw). I thought that use of the mouse and sound/audio
